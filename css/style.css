@@ -15,70 +15,62 @@
 }
 
 /*WEB FONTS RELATED*/
-/* overpass-300 - latin */
+
 @font-face {
     font-family: 'Overpass';
     font-style: normal;
     font-weight: 300;
-    src: url('../fonts/overpass-v5-latin-300.eot'); /* IE9 Compat Modes */
-    src: local(''),
-         url('../fonts/overpass-v5-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/overpass-v5-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/overpass-v5-latin-300.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/overpass-v5-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/overpass-v5-latin-300.svg#Overpass') format('svg'); /* Legacy iOS */
+    src: url('../fonts/overpass-v5-latin-300.eot'),
+         url('../fonts/overpass-v5-latin-300.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/overpass-v5-latin-300.woff2') format('woff2'), 
+         url('../fonts/overpass-v5-latin-300.woff') format('woff'), 
+         url('../fonts/overpass-v5-latin-300.ttf') format('truetype'), 
+         url('../fonts/overpass-v5-latin-300.svg#Overpass') format('svg'); 
   }
-  /* overpass-600 - latin */
+  
   @font-face {
     font-family: 'Overpass';
     font-style: normal;
     font-weight: 600;
-    src: url('../fonts/overpass-v5-latin-600.eot'); /* IE9 Compat Modes */
-    src: local(''),
-         url('../fonts/overpass-v5-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/overpass-v5-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/overpass-v5-latin-600.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/overpass-v5-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/overpass-v5-latin-600.svg#Overpass') format('svg'); /* Legacy iOS */
+    src: url('../fonts/overpass-v5-latin-600.eot'),
+         url('../fonts/overpass-v5-latin-600.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/overpass-v5-latin-600.woff2') format('woff2'), 
+         url('../fonts/overpass-v5-latin-600.woff') format('woff'), 
+         url('../fonts/overpass-v5-latin-600.ttf') format('truetype'), 
+         url('../fonts/overpass-v5-latin-600.svg#Overpass') format('svg'); 
   }
-  /* ubuntu-regular - latin */
 @font-face {
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/ubuntu-v15-latin-regular.eot'); /* IE9 Compat Modes */
-    src: local(''),
-         url('../fonts/ubuntu-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/ubuntu-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
+    src: url('../fonts/ubuntu-v15-latin-regular.eot'),
+         url('../fonts/ubuntu-v15-latin-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-v15-latin-regular.woff2') format('woff2'), 
+         url('../fonts/ubuntu-v15-latin-regular.woff') format('woff'), 
+         url('../fonts/ubuntu-v15-latin-regular.ttf') format('truetype'), 
+         url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg'); 
   }
-  /* ubuntu-500 - latin */
   @font-face {
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 500;
-    src: url('../fonts/ubuntu-v15-latin-500.eot'); /* IE9 Compat Modes */
-    src: local(''),
-         url('../fonts/ubuntu-v15-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/ubuntu-v15-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-500.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/ubuntu-v15-latin-500.svg#Ubuntu') format('svg'); /* Legacy iOS */
+    src: url('../fonts/ubuntu-v15-latin-500.eot'),
+         url('../fonts/ubuntu-v15-latin-500.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-v15-latin-500.woff2') format('woff2'), 
+         url('../fonts/ubuntu-v15-latin-500.woff') format('woff'), 
+         url('../fonts/ubuntu-v15-latin-500.ttf') format('truetype'), 
+         url('../fonts/ubuntu-v15-latin-500.svg#Ubuntu') format('svg'); 
   }
-  /* ubuntu-700 - latin */
   @font-face {
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 700;
-    src: url('../fonts/ubuntu-v15-latin-700.eot'); /* IE9 Compat Modes */
-    src: local(''),
-         url('../fonts/ubuntu-v15-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/ubuntu-v15-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-700.woff') format('woff'), /* Modern Browsers */
-         url('../fonts/ubuntu-v15-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/ubuntu-v15-latin-700.svg#Ubuntu') format('svg'); /* Legacy iOS */
+    src: url('../fonts/ubuntu-v15-latin-700.eot'),
+         url('../fonts/ubuntu-v15-latin-700.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu-v15-latin-700.woff2') format('woff2'), 
+         url('../fonts/ubuntu-v15-latin-700.woff') format('woff'), 
+         url('../fonts/ubuntu-v15-latin-700.ttf') format('truetype'), 
+         url('../fonts/ubuntu-v15-latin-700.svg#Ubuntu') format('svg'); 
   }
 
 /*GLOBAL STYLES*/
@@ -109,18 +101,17 @@ body{
   
 }
 /*PAGE-HEADER*/
-.page-header{
-  background:url("../images/bg-pattern-intro.svg"),
-  linear-gradient(135deg, #FF8F71 0%, #FF3E55 100%);
+.site-header-wrapper{
+   background:url("../images/bg-pattern-intro.svg"),
+              linear-gradient(135deg, #FF8F71 0%, #FF3E55 100%);
    background-repeat: no-repeat;
    border-radius: 0px 0px 0px 100px;
    background-position:30% center;
-   margin-bottom: 150px;
 }
 .page-header__container{
   display: flex;
   align-items: center;
-  padding: 59px 0;
+  padding: 59px 0 119px;
 }
 
 .nav-list{
@@ -170,24 +161,11 @@ body{
   opacity: 0.75;
   
 }
-  .nav-link:hover{
+  .nav-item:hover{
     text-decoration: underline;
     opacity:1;
   }
 
-  .hamburger{
-    display: none;
-    background-image: url(../images/icon-hamburger.svg);
-    width: 32px;
-    height: 18px;
-    position: absolute;
-    top: 63px;
-    right: 24px;
-  }
-  .hamburger-btn{
-    outline: none ;
-    border: none;
-  }
 /*DROPDOWN*/
 
 .dropdown{
@@ -240,6 +218,7 @@ body{
   opacity: 1;
 }
 .sign-link{
+  display: inline-block;
   background-color: #fff;
   color: var(--Light-red);
   text-decoration: none;
@@ -258,8 +237,8 @@ body{
 }
 .header-title{
  font-weight: 600;
- margin-bottom: 0;
- margin-top: 60px;
+ margin:0;
+ margin-bottom: 5px;
  font-family: "Overpass","Arial",sans-serif;
  font-size: 64px;
  line-height: 98px;
@@ -268,8 +247,8 @@ body{
 }
 .header-text{
   color: #eee;
-  margin-top: 5px;
-  margin-bottom: 48px;
+  margin: 0;
+  margin-bottom: 43px;
 }
 .start-btn{
   font-weight: bold;
@@ -294,14 +273,19 @@ body{
   color: var(--Light-red);
 }
 /*MAIN*/
+.main-container{
+  padding-top: 150px;
+}
 .about-design{
   display: flex;
   position: relative;
   color: var(--Very-dark-blue);
+  margin-bottom: 123px;
 }
 .main-title{
   text-align: center;
-  margin-bottom: 100px;
+  margin: 0;
+  margin-bottom: 93px;
   font-weight: 600;
   font-size: 40px;
   line-height: 61px;
@@ -321,6 +305,8 @@ body{
 }
 .about-design__title{
   font-weight: 600;
+  margin: 0;
+  margin-bottom: 16px;
   font-size: 28px;
   line-height: 28px;
 }
@@ -330,6 +316,7 @@ body{
   line-height: 28px;
   letter-spacing: 0.5px;
   color:var(--Very-dark-grayish-blue);
+  margin: 0;
   margin-bottom: 100px;
 }
 /*STATE SECTION*/
@@ -389,11 +376,14 @@ body{
 }
 .info-design__title{
   font-weight: 600;
+  margin: 0;
+  margin-bottom: 16px;
   font-size: 28px;
   line-height: 28px;
   color: #1F3E5A;
 }
 .info-design__text{
+  margin: 0;
   margin-bottom: 64px;
   font-weight: 300;
   font-size: 16px;
